@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C # ( OOP )\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C # ( OOP )\\OOP\\Interface\\IEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|d:\\c # ( oop )\\oop\\classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|solutionrelative:classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|d:\\c # ( oop )\\oop\\classandobject\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|solutionrelative:classandobject\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|d:\\c # ( oop )\\oop\\classandobject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|solutionrelative:classandobject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|d:\\c # ( oop )\\oop\\classandobject\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EC5A2D-5EBF-41A0-B9B9-A4F7BC8E024A}|ClassAndObject\\ClassAndObject.csproj|solutionrelative:classandobject\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D46B3F-3B48-4F6F-B836-BAB17108331B}|Polymorphism\\Polymorphism.csproj|d:\\c # ( oop )\\oop\\polymorphism\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D46B3F-3B48-4F6F-B836-BAB17108331B}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D46B3F-3B48-4F6F-B836-BAB17108331B}|Polymorphism\\Polymorphism.csproj|d:\\c # ( oop )\\oop\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D46B3F-3B48-4F6F-B836-BAB17108331B}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D46B3F-3B48-4F6F-B836-BAB17108331B}|Polymorphism\\Polymorphism.csproj|d:\\c # ( oop )\\oop\\polymorphism\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D46B3F-3B48-4F6F-B836-BAB17108331B}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|d:\\c # ( oop )\\oop\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762E2148-1629-4737-9435-E886ECE7BD08}|Interface\\Interface.csproj|d:\\c # ( oop )\\oop\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762E2148-1629-4737-9435-E886ECE7BD08}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|d:\\c # ( oop )\\oop\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|d:\\c # ( oop )\\oop\\abstractclass\\permanentemployee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\permanentemployee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|d:\\c # ( oop )\\oop\\abstractclass\\contractemployee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A84B34-FF70-4846-A3EB-47E09535CE66}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\contractemployee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12919E06-FCE5-431E-9742-059A89EBE70D}|Abstract\\Abstract.csproj|d:\\c # ( oop )\\oop\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12919E06-FCE5-431E-9742-059A89EBE70D}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE20B20-BBC8-4111-A15D-6DA79ECBFA89}|Constructor\\Constructor.csproj|d:\\c # ( oop )\\oop\\constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE20B20-BBC8-4111-A15D-6DA79ECBFA89}|Constructor\\Constructor.csproj|solutionrelative:constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE20B20-BBC8-4111-A15D-6DA79ECBFA89}|Constructor\\Constructor.csproj|d:\\c # ( oop )\\oop\\constructor\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE20B20-BBC8-4111-A15D-6DA79ECBFA89}|Constructor\\Constructor.csproj|solutionrelative:constructor\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C # ( OOP )\\OOP\\Interface\\ContractEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\ContractEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C # ( OOP )\\OOP\\Interface\\PermanentEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\PermanentEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C # ( OOP )\\OOP\\Abstract\\Bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Abstract\\Bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C # ( OOP )\\OOP\\Abstract\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Abstract\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C # ( OOP )\\OOP\\Abstract\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Abstract\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Polymorphism\\Animal.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Animal.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Polymorphism\\Animal.cs",
+              "RelativeToolTip": "Polymorphism\\Animal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:21:30.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Polymorphism\\Calculator.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Calculator.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Polymorphism\\Calculator.cs",
+              "RelativeToolTip": "Polymorphism\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:01:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:57:25.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Interface\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "Interface\\ContractEmployee.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Interface\\ContractEmployee.cs",
+              "RelativeToolTip": "Interface\\ContractEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:21:10.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Interface\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "Interface\\PermanentEmployee.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Interface\\PermanentEmployee.cs",
+              "RelativeToolTip": "Interface\\PermanentEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:14:46.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmployee.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "Interface\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:10:23.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractEmployee .cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\AbstractClass\\ContractEmployee .cs",
+              "RelativeDocumentMoniker": "AbstractClass\\ContractEmployee .cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\AbstractClass\\ContractEmployee .cs",
+              "RelativeToolTip": "AbstractClass\\ContractEmployee .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:41:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermanentEmployee .cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\AbstractClass\\PermanentEmployee .cs",
+              "RelativeDocumentMoniker": "AbstractClass\\PermanentEmployee .cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\AbstractClass\\PermanentEmployee .cs",
+              "RelativeToolTip": "AbstractClass\\PermanentEmployee .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:38:42.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\AbstractClass\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Employee.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\AbstractClass\\Employee.cs",
+              "RelativeToolTip": "AbstractClass\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:28:36.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:26:51.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Abstract\\Bike.cs",
+              "RelativeDocumentMoniker": "Abstract\\Bike.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Abstract\\Bike.cs",
+              "RelativeToolTip": "Abstract\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:31:54.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Abstract\\Car.cs",
+              "RelativeDocumentMoniker": "Abstract\\Car.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Abstract\\Car.cs",
+              "RelativeToolTip": "Abstract\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:28:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Abstract\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Abstract\\Vehicle.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Abstract\\Vehicle.cs",
+              "RelativeToolTip": "Abstract\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:26:50.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Constructor\\Person.cs",
+              "RelativeDocumentMoniker": "Constructor\\Person.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Constructor\\Person.cs",
+              "RelativeToolTip": "Constructor\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:36:51.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor\\Program.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Constructor\\Program.cs",
+              "RelativeToolTip": "Constructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:35:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:17:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:16:43.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Person.cs",
+              "RelativeDocumentMoniker": "ClassAndObject\\Person.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Person.cs",
+              "RelativeToolTip": "ClassAndObject\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:04:20.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Property.cs",
+              "RelativeDocumentMoniker": "ClassAndObject\\Property.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Property.cs",
+              "RelativeToolTip": "ClassAndObject\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:16:31.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Constructor.cs",
+              "RelativeDocumentMoniker": "ClassAndObject\\Constructor.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Constructor.cs",
+              "RelativeToolTip": "ClassAndObject\\Constructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:38:42.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Program.cs",
+              "RelativeDocumentMoniker": "ClassAndObject\\Program.cs",
+              "ToolTip": "D:\\C # ( OOP )\\OOP\\ClassAndObject\\Program.cs",
+              "RelativeToolTip": "ClassAndObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:22:17.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

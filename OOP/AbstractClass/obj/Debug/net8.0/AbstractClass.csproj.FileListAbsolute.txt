@@ -1,0 +1,14 @@
+D:\C # ( OOP )\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+D:\C # ( OOP )\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+D:\C # ( OOP )\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+D:\C # ( OOP )\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+D:\C # ( OOP )\OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+D:\C # ( OOP )\OOP\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll
