@@ -98,8 +98,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -151,8 +155,7 @@
               "RelativeToolTip": "Polymorphism\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:57:25.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T12:57:25.408Z"
             },
             {
               "$type": "Document",
@@ -164,8 +167,7 @@
               "RelativeToolTip": "Interface\\ContractEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:21:10.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T12:21:10.345Z"
             },
             {
               "$type": "Document",
@@ -177,8 +179,7 @@
               "RelativeToolTip": "Interface\\PermanentEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:14:46.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T12:14:46.622Z"
             },
             {
               "$type": "Document",
@@ -190,8 +191,7 @@
               "RelativeToolTip": "Interface\\IEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:10:23.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T12:10:23.685Z"
             },
             {
               "$type": "Document",
@@ -203,8 +203,7 @@
               "RelativeToolTip": "AbstractClass\\ContractEmployee .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:41:52.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T11:41:52.149Z"
             },
             {
               "$type": "Document",
@@ -216,8 +215,7 @@
               "RelativeToolTip": "AbstractClass\\PermanentEmployee .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:38:42.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T11:38:42.272Z"
             },
             {
               "$type": "Document",
@@ -229,8 +227,7 @@
               "RelativeToolTip": "AbstractClass\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:28:36.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T11:28:36.766Z"
             },
             {
               "$type": "Document",
@@ -242,8 +239,7 @@
               "RelativeToolTip": "AbstractClass\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:26:51.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T11:26:51.573Z"
             },
             {
               "$type": "Document",
@@ -267,8 +263,7 @@
               "RelativeToolTip": "Abstract\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:28:19.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T09:28:19.677Z"
             },
             {
               "$type": "Document",
@@ -280,8 +275,7 @@
               "RelativeToolTip": "Abstract\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:26:50.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T09:26:50.532Z"
             },
             {
               "$type": "Document",
@@ -293,8 +287,7 @@
               "RelativeToolTip": "Constructor\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:36:51.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T08:36:51.661Z"
             },
             {
               "$type": "Document",
@@ -306,8 +299,7 @@
               "RelativeToolTip": "Constructor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:35:56.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T08:35:56.047Z"
             },
             {
               "$type": "Document",
@@ -319,8 +311,7 @@
               "RelativeToolTip": "Interface\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T09:17:22.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T09:17:22.348Z"
             },
             {
               "$type": "Document",
