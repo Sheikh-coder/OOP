@@ -1,0 +1,15 @@
+D:\C # ( OOP )\OOP\IEnumerable\bin\Debug\net8.0\IEnumerable.exe
+D:\C # ( OOP )\OOP\IEnumerable\bin\Debug\net8.0\IEnumerable.deps.json
+D:\C # ( OOP )\OOP\IEnumerable\bin\Debug\net8.0\IEnumerable.runtimeconfig.json
+D:\C # ( OOP )\OOP\IEnumerable\bin\Debug\net8.0\IEnumerable.dll
+D:\C # ( OOP )\OOP\IEnumerable\bin\Debug\net8.0\IEnumerable.pdb
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.AssemblyInfoInputs.cache
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.AssemblyInfo.cs
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.csproj.CoreCompileInputs.cache
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.sourcelink.json
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.dll
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\refint\IEnumerable.dll
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.pdb
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\IEnumerable.genruntimeconfig.cache
+D:\C # ( OOP )\OOP\IEnumerable\obj\Debug\net8.0\ref\IEnumerable.dll
