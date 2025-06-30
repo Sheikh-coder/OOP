@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractCl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{E4D46B3F-3B48-4F6F-B836-BAB17108331B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{CA972A82-ED8A-43D6-8759-631C5D9FFBA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{CA972A82-ED8A-43D6-8759-631C5D9FFBA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{E4277D62-266D-400C-B3CD-0E7898C10BF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{CA972A82-ED8A-43D6-8759-631C5D9FFBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA972A82-ED8A-43D6-8759-631C5D9FFBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA972A82-ED8A-43D6-8759-631C5D9FFBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4277D62-266D-400C-B3CD-0E7898C10BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4277D62-266D-400C-B3CD-0E7898C10BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4277D62-266D-400C-B3CD-0E7898C10BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4277D62-266D-400C-B3CD-0E7898C10BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

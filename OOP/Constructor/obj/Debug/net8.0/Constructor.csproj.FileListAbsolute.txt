@@ -12,3 +12,4 @@ D:\C # ( OOP )\OOP\Constructor\obj\Debug\net8.0\refint\Constructor.dll
 D:\C # ( OOP )\OOP\Constructor\obj\Debug\net8.0\Constructor.pdb
 D:\C # ( OOP )\OOP\Constructor\obj\Debug\net8.0\Constructor.genruntimeconfig.cache
 D:\C # ( OOP )\OOP\Constructor\obj\Debug\net8.0\ref\Constructor.dll
+D:\C # ( OOP )\OOP\Constructor\obj\Debug\net8.0\Constructor.sourcelink.json
